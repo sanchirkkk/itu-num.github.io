@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="329px" height="271px" viewBox="0 0 329 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AI</title>
+    <defs>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-75.0%" y="-75.0%" width="250.0%" height="250.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-15.0%" y="-15.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-17">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-19">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-20">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-21">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-22">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-23">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-24">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-150.0%" y="-150.0%" width="400.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-25">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-26">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-27">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-28">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-29">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-75.0%" y="-75.0%" width="250.0%" height="250.0%" filterUnits="objectBoundingBox" id="filter-30">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-15.0%" y="-15.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-31">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-33">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-34">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-35">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-36">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-15.0%" y="-15.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-37">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-38">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-39">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-40">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-41">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-42">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-43">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-44">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-27.3%" y="-27.3%" width="154.5%" height="154.5%" filterUnits="objectBoundingBox" id="filter-45">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-46">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-47">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-48">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-49">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-50">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-51">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-52">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-53">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-54">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-55">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-56">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-57">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-150.0%" y="-150.0%" width="400.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-58">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-59">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-60">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-61">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-62">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-75.0%" y="-75.0%" width="250.0%" height="250.0%" filterUnits="objectBoundingBox" id="filter-63">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-64">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-65">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-66">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-67">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-68">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-15.0%" y="-15.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-69">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-70">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-71">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-72">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-73">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-74">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-75">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-76">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-11.5%" y="-11.5%" width="123.1%" height="123.1%" filterUnits="objectBoundingBox" id="filter-77">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-78">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-79">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-80">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-81">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-82">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-27.3%" y="-27.3%" width="154.5%" height="154.5%" filterUnits="objectBoundingBox" id="filter-83">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-84">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-85">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-86">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-87">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-88">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-89">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-90">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-91">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-92">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-93">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-94">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-95">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-150.0%" y="-150.0%" width="400.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-96">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-97">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-98">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-99">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-100">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-75.0%" y="-75.0%" width="250.0%" height="250.0%" filterUnits="objectBoundingBox" id="filter-101">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-102">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-103">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-104">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-105">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-106">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-15.0%" y="-15.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-107">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-108">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-109">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-110">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-111">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-112">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-113">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-114">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-11.5%" y="-11.5%" width="123.1%" height="123.1%" filterUnits="objectBoundingBox" id="filter-115">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-16.7%" y="-16.7%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-116">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-117">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-118">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-119">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-120">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-121">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-27.3%" y="-27.3%" width="154.5%" height="154.5%" filterUnits="objectBoundingBox" id="filter-122">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-123">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-124">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-125">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-126">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-127">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-128">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-129">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-130">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-131">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-132">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-133">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-134">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-150.0%" y="-150.0%" width="400.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-135">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-136">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-174.000000, -61.000000)">
+            <g id="AI" transform="translate(177.000000, 64.000000)">
+                <g id="CENTER" transform="translate(142.000000, 84.000000)" stroke="#011627" stroke-width="0.5">
+                    <rect id="Rectangle" x="0.25" y="0.25" width="39.5" height="39.5"></rect>
+                    <rect id="Rectangle-Copy" x="5.25" y="5.25" width="29.5" height="29.5"></rect>
+                    <rect id="Rectangle-Copy-2" x="9.25" y="9.25" width="21.5" height="21.5"></rect>
+                    <rect id="Rectangle-Copy-3" x="12.25" y="12.25" width="15.5" height="15.5"></rect>
+                    <rect id="Rectangle-Copy-4" x="14.25" y="14.25" width="11.5" height="11.5"></rect>
+                    <rect id="Rectangle-Copy-5" x="16.25" y="16.25" width="7.5" height="7.5"></rect>
+                    <rect id="Rectangle-Copy-6" x="17.25" y="17.25" width="5.5" height="5.5"></rect>
+                    <rect id="Rectangle-Copy-7" x="18.25" y="18.25" width="3.5" height="3.5"></rect>
+                    <rect id="Rectangle-Copy-8" x="19.25" y="19.25" width="1.5" height="1.5"></rect>
+                </g>
+                <g id="TOP-" transform="translate(68.000000, 0.000000)">
+                    <g id="Group-4" transform="translate(0.000000, 1.000000)">
+                        <polyline id="Line-Copy-3" stroke="#011627" stroke-linecap="square" points="81 83 81 66.7536262 71.5131905 66.7536262 59.487524 54.0623588 59.487524 43.554437 50.0480565 34.5158383 37.7517043 34.5158383 30.6634711 26.7211234"></polyline>
+                        <polyline id="Line-13" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="68.5 63.5 58.5 63.5 47.8646789 53.5"></polyline>
+                        <polyline id="Line-14" stroke="#011627" stroke-linecap="square" points="78.5 66.5 78.5 56.5 72.544156 51.2134636"></polyline>
+                        <polyline id="Line-15" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="52.5 36.5 52.5 28.5 49.9366461 25.6447287 42.6291553 25.6447287 33.339393 16.4649537 33.339393 13.995794"></polyline>
+                        <polyline id="Line-16" stroke="#011627" stroke-linecap="square" points="54.5 38.5 54.5 26.5 50.6240668 22.5123121 43.6601475 22.5123121 41.0568365 19.2443555"></polyline>
+                        <polyline id="Line-17" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="57 41 57 12 51.1315083 6.40750217"></polyline>
+                        <path d="M22.5,22.5 C17.8333333,22.5 15.5,22.5 15.5,22.5 C15.5,22.5 13.4517683,20.3333333 9.35530493,16 L5.31709445,16" id="Line-18" stroke="#011627" stroke-linecap="square"></path>
+                        <line x1="25" y1="19" x2="22" y2="15" id="Line-19" stroke="#011627" stroke-linecap="square"></line>
+                        <g id="teal-circle" transform="translate(65.000000, 44.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-1)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(18.000000, 11.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-2)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(26.000000, 3.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-3)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(39.000000, 17.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2" cy="2" r="1.53846154"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-4)" cx="2" cy="2" r="1.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(33.000000, 39.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="10" cy="10" r="7.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-5)" cx="10" cy="10" r="9.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(45.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-6)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.000000, 12.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-7)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(21.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-8)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3" transform="translate(60.000000, 0.000000)">
+                        <line x1="30" y1="84" x2="30" y2="22.5" id="Line" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-2" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="30 55 20.5 46.5 20.5 40.9148884 6 26.3730802 6 10.4821105"></polyline>
+                        <line x1="20.5" y1="25.5" x2="20.5" y2="40.5" id="Line-3" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-4" stroke="#011627" stroke-linecap="square" points="30.5 54.5 36.5 49.5 36.5 45.4224492"></polyline>
+                        <polyline id="Line-5" stroke="#011627" stroke-linecap="square" points="30.5 59.5 41.5 49.5 41.5 39.8602737"></polyline>
+                        <polyline id="Line-20" stroke="#011627" points="30 37 39 28 39 11.2239234 35.3896884 8.25729454"></polyline>
+                        <polyline id="Line-21-Copy" stroke="#011627" stroke-linecap="square" points="39 28 43 24 43 15.5391759 47.9532262 11.3761828 51.4700455 11.3761828"></polyline>
+                        <polyline id="Line-21" stroke="#011627" stroke-linecap="square" points="39 28 43 24 43 15.5391759 47.9532262 11.3761828 51.4700455 11.3761828"></polyline>
+                        <g id="teal-circle">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-9)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(17.000000, 21.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-10)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(34.000000, 41.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-11)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(38.000000, 35.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-12)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(30.000000, 3.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-13)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(48.000000, 4.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-14)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(23.000000, 13.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-15)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(96.000000, 4.000000)">
+                        <polyline id="Line-Copy" stroke="#011627" stroke-linecap="square" points="2 80 2 64.0862282 23.4072968 40.554437 23.4072968 18.5 33.1619113 9.10275879"></polyline>
+                        <g id="teal-circle" transform="translate(30.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-16)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(18.000000, 27.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-17)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.000000, 53.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-18)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(104.500000, 10.000000)">
+                        <line x1="34.5" y1="27" x2="34.5" y2="16.5" id="Line-6" stroke="#011627" stroke-linecap="square"></line>
+                        <line x1="35" y1="20.5" x2="47" y2="9.5" id="Line-7" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <line x1="40" y1="7.5" x2="40" y2="15.5" id="Line-8" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-9" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="33.5 29.1359461 38.9864174 29.1359461 39.5 29.1359461 45.5448778 25 58.0491933 25"></polyline>
+                        <polyline id="Line-10" stroke="#011627" stroke-linecap="square" points="26.5 35.8792364 30.5 35.8792364 33.5 33 39.5 33"></polyline>
+                        <polyline id="Line-11" stroke="#011627" stroke-linecap="square" points="7.5 54 22.5 54 27.2398701 50.8392106 27.2398701 47.8781262"></polyline>
+                        <polyline id="Line-12" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="5 56.5 25 56.5 36.6581239 46.1277518"></polyline>
+                        <g id="teal-circle" transform="translate(23.500000, 42.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-19)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(32.500000, 39.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-20)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(38.500000, 5.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1.5" cy="1.5" r="1.15384615"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-21)" cx="1.5" cy="1.5" r="1.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(31.500000, 11.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-22)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(55.500000, 13.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-23)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(55.500000, 20.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-24)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(39.500000, 32.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1" cy="1" r="1"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-25)" cx="1" cy="1" r="1"></circle>
+                            </g>
+                        </g>
+                        <polyline id="Line-Copy-2" stroke="#011627" stroke-linecap="square" points="0.875297367 74 0.875297367 59.6921066 36.0835627 26.2107054 41.1635493 26.2107054 49.4027584 16.3730802 56.8460183 16.3730802"></polyline>
+                        <g id="teal-circle" transform="translate(42.500000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-26)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="BOTTOM" transform="translate(83.229809, 122.939976)">
+                    <g id="Group-4-Copy" transform="translate(133.098181, 48.000000) rotate(-180.000000) translate(-133.098181, -48.000000) translate(91.098181, 1.000000)">
+                        <polyline id="Line-Copy-3" stroke="#011627" stroke-linecap="square" points="84 94 84 77.7536262 74.5131905 77.7536262 62.487524 65.0623588 62.487524 54.554437 53.0480565 45.5158383 40.7517043 45.5158383 33.6634711 37.7211234"></polyline>
+                        <polyline id="Line-13" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="71.5 74.5 61.5 74.5 50.8646789 64.5"></polyline>
+                        <polyline id="Line-14" stroke="#011627" stroke-linecap="square" points="81.5 77.5 81.5 67.5 75.544156 62.2134636"></polyline>
+                        <polyline id="Line-15" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="55.5 47.5 55.5 39.5 52.9366461 36.6447287 45.6291553 36.6447287 36.339393 27.4649537 36.339393 24.995794"></polyline>
+                        <polyline id="Line-16" stroke="#011627" stroke-linecap="square" points="57.5 49.5 57.5 37.5 53.6240668 33.5123121 46.6601475 33.5123121 44.0568365 30.2443555"></polyline>
+                        <polyline id="Line-17" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="60 52 60 23 54.1315083 17.4075022"></polyline>
+                        <path d="M25.5,33.5 C20.8333333,33.5 18.5,33.5 18.5,33.5 C18.5,33.5 16.4517683,31.3333333 12.3553049,27 L8.31709445,27" id="Line-18" stroke="#011627" stroke-linecap="square"></path>
+                        <line x1="28" y1="30" x2="25" y2="26" id="Line-19" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-25" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="5.62898499 6 15.6454249 15.9399758 22.32799 15.9399758 26.5 20.9399758 31 20.9399758"></polyline>
+                        <polyline id="Line-26" stroke="#011627" stroke-linecap="square" points="56.82799 36.4399758 56.82799 27.4399758 46.4920622 16.9399758 42.495531 16.9399758 36 8.39321357"></polyline>
+                        <g id="teal-circle" transform="translate(68.000000, 55.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-27)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(21.000000, 22.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-28)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(29.000000, 14.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-29)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(42.000000, 28.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2" cy="2" r="1.53846154"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-30)" cx="2" cy="2" r="1.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle-copy-7" transform="translate(36.000000, 50.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#E71D36" cx="10" cy="10" r="7.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#E71D36" stroke-width="0.5" filter="url(#filter-31)" cx="10" cy="10" r="9.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(48.000000, 11.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-32)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(3.000000, 23.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-33)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.327990, 0.939976)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-34)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(31.327990, 2.939976)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-35)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(24.000000, 27.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-36)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy" transform="translate(89.270191, 71.060024) scale(1, -1) translate(-89.270191, -71.060024) translate(52.770191, 1.060024)">
+                        <line x1="30" y1="140" x2="30" y2="78.5" id="Line" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-2" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="30 111 20.5 102.5 20.5 96.9148884 6 82.3730802 6 66.4821105"></polyline>
+                        <line x1="20.5" y1="81.5" x2="20.5" y2="96.5" id="Line-3" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-4" stroke="#011627" stroke-linecap="square" points="30.5 110.5 36.5 105.5 36.5 101.422449"></polyline>
+                        <polyline id="Line-5" stroke="#011627" stroke-linecap="square" points="30.5 115.5 41.5 105.5 41.5 95.8602737"></polyline>
+                        <polyline id="Line-20" stroke="#011627" points="30 93 39 84 39 67.2239234 35.3896884 64.2572945"></polyline>
+                        <polyline id="Line-21-Copy" stroke="#011627" stroke-linecap="square" points="39 84 43 80 43 71.5391759 47.9532262 67.3761828 51.4700455 67.3761828"></polyline>
+                        <polyline id="Line-21" stroke="#011627" stroke-linecap="square" points="39 84 43 80 43 71.5391759 47.9532262 67.3761828 51.4700455 67.3761828"></polyline>
+                        <polyline id="Line-22" stroke="#011627" stroke-linecap="square" transform="translate(62.506272, 35.967259) scale(-1, 1) rotate(-179.000000) translate(-62.506272, -35.967259) " points="54.2775018 5.99977827 54.2775018 15.9997783 62.2737562 25.229748 62.2737562 28.2703138 70.7350422 38.3015428 70.7350422 45.8011143 70.7350422 63.5978722 68.528546 65.9347397"></polyline>
+                        <polyline id="Line-23" stroke="#011627" stroke-linecap="square" points="42.1542312 27.2103285 42.1542312 47.9639876 30 59 30 71"></polyline>
+                        <polyline id="Line-24" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="42.5 45.5 50.5 39.5 50.5 30.7514407 55.8081153 26.1495959 55.8081153 17.9029905 54.2293106 16.5591522"></polyline>
+                        <polyline id="Line-27" stroke="#011627" stroke-linecap="square" transform="translate(48.750000, 81.780012) scale(1, -1) translate(-48.750000, -81.780012) " points="42 70.5600242 55.5 84.5 55.5 93"></polyline>
+                        <g id="teal-circle" transform="translate(41.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="10" cy="10" r="7.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-37)" cx="10" cy="10" r="9.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(35.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-38)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.000000, 56.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-39)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(17.000000, 77.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-40)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(34.000000, 97.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-41)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(38.000000, 91.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-42)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(30.000000, 59.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-43)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(48.000000, 60.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-44)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(60.000000, 34.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5.5" cy="5.5" r="4.23076923"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-45)" cx="5.5" cy="5.5" r="5.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(68.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-46)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(64.000000, 2.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-47)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(23.000000, 69.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-48)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-2-Copy" transform="translate(57.770191, 38.060024) scale(-1, -1) translate(-57.770191, -38.060024) translate(40.770191, 1.060024)">
+                        <polyline id="Line-Copy" stroke="#011627" stroke-linecap="square" points="1.30443815e-16 74 0 58.0862282 14.0899099 45.1493897 14.0899099 31.2788693 33.3765192 17.2953694 31.1619113 3.10275879"></polyline>
+                        <g id="teal-circle" transform="translate(28.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-49)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(16.000000, 19.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-50)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(2.000000, 51.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-51)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-Copy" transform="translate(36.500000, 40.203310) rotate(176.000000) translate(-36.500000, -40.203310) translate(3.000000, 3.203310)">
+                        <line x1="35.5" y1="27" x2="35.5" y2="16.5" id="Line-6" stroke="#011627" stroke-linecap="square"></line>
+                        <line x1="36" y1="20.5" x2="48" y2="9.5" id="Line-7" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <line x1="41" y1="7.5" x2="41" y2="15.5" id="Line-8" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-9" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="34.5 29.1359461 39.9864174 29.1359461 40.5 29.1359461 46.5448778 25 59.0491933 25"></polyline>
+                        <polyline id="Line-10" stroke="#011627" stroke-linecap="square" points="27.5 35.8792364 31.5 35.8792364 34.5 33 40.5 33"></polyline>
+                        <polyline id="Line-11" stroke="#011627" stroke-linecap="square" points="8.5 54 23.5 54 28.2398701 50.8392106 28.2398701 47.8781262"></polyline>
+                        <polyline id="Line-12" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="6 56.5 26 56.5 37.6581239 46.1277518"></polyline>
+                        <g id="teal-circle" transform="translate(24.500000, 42.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-52)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(33.500000, 39.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-53)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(39.500000, 5.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1.5" cy="1.5" r="1.15384615"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-54)" cx="1.5" cy="1.5" r="1.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(32.500000, 11.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-55)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.500000, 13.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-56)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.500000, 20.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-57)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(40.500000, 32.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1" cy="1" r="1"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-58)" cx="1" cy="1" r="1"></circle>
+                            </g>
+                        </g>
+                        <polyline id="Line-Copy-2" stroke="#011627" stroke-linecap="square" points="0.877749899 73.9577 1.87529737 59.6921066 37.0835627 26.2107054 42.1635493 26.2107054 50.4027584 16.3730802 57.8460183 16.3730802"></polyline>
+                        <g id="teal-circle" transform="translate(43.500000, -0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-59)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="LEFT" transform="translate(71.000000, 96.000000) scale(1, -1) rotate(90.000000) translate(-71.000000, -96.000000) translate(-17.000000, 25.000000)">
+                    <g id="Group-4-Copy" transform="translate(123.098181, 58.500000) rotate(-180.000000) translate(-123.098181, -58.500000) translate(71.098181, 1.000000)">
+                        <polyline id="Line-Copy-3" stroke="#011627" stroke-linecap="square" points="84 115 84 98.7536262 74.5131905 98.7536262 62.487524 86.0623588 62.487524 75.554437 53.0480565 66.5158383 40.7517043 66.5158383 33.6634711 58.7211234"></polyline>
+                        <polyline id="Line-14" stroke="#011627" stroke-linecap="square" points="81.5 98.5 81.5 88.5 75.544156 83.2134636"></polyline>
+                        <polyline id="Line-15" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="55.5 68.5 55.5 60.5 52.9366461 57.6447287 45.6291553 57.6447287 36.339393 48.4649537 36.339393 45.995794"></polyline>
+                        <polyline id="Line-16" stroke="#011627" stroke-linecap="square" points="57.5 70.5 57.5 58.5 53.6240668 54.5123121 46.6601475 54.5123121 44.0568365 51.2443555"></polyline>
+                        <polyline id="Line-17" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="60 73 60 44 54.1315083 38.4075022"></polyline>
+                        <path d="M25.5,54.5 C20.8333333,54.5 18.5,54.5 18.5,54.5 C18.5,54.5 16.4517683,52.3333333 12.3553049,48 L8.31709445,48" id="Line-18" stroke="#011627" stroke-linecap="square"></path>
+                        <line x1="28" y1="51" x2="25" y2="47" id="Line-19" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-25" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="5.62898499 27 15.6454249 36.9399758 22.32799 36.9399758 26.5 41.9399758 31 41.9399758"></polyline>
+                        <polyline id="Line-26" stroke="#011627" stroke-linecap="square" points="56.82799 57.4399758 56.82799 48.4399758 46.4920622 37.9399758 42.495531 37.9399758 36 29.3932136"></polyline>
+                        <g id="teal-circle" transform="translate(68.000000, 76.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-60)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(21.000000, 43.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-61)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(29.000000, 35.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-62)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(42.000000, 49.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2" cy="2" r="1.53846154"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-63)" cx="2" cy="2" r="1.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(48.000000, 32.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-64)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(3.000000, 44.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-65)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.327990, 21.939976)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-66)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(31.327990, 23.939976)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-67)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(24.000000, 48.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-68)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <polyline id="Line-31" stroke="#011627" stroke-width="0.5" stroke-linecap="square" transform="translate(101.053917, 18.460371) rotate(-90.000000) translate(-101.053917, -18.460371) " points="118.593546 19.766297 114.574312 19.766297 110.838888 16.4161061 96.0109848 16.7344437 91.5142875 20.5046352 83.5142875 20.5046352"></polyline>
+                    </g>
+                    <g id="Group-3-Copy" opacity="0.899999976" transform="translate(76.270191, 71.060024) scale(1, -1) translate(-76.270191, -71.060024) translate(26.770191, 1.060024)">
+                        <line x1="56" y1="140" x2="56" y2="78.5" id="Line" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-2" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="56 111 46.5 102.5 46.5 96.9148884 32 82.3730802 32 66.4821105"></polyline>
+                        <line x1="46.5" y1="81.5" x2="46.5" y2="96.5" id="Line-3" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-4" stroke="#011627" stroke-linecap="square" points="56.5 110.5 62.5 105.5 62.5 101.422449"></polyline>
+                        <polyline id="Line-5" stroke="#011627" stroke-linecap="square" points="56.5 115.5 67.5 105.5 67.5 95.8602737"></polyline>
+                        <polyline id="Line-20" stroke="#011627" points="56 93 65 84 65 67.2239234 61.3896884 64.2572945"></polyline>
+                        <polyline id="Line-21-Copy" stroke="#011627" stroke-linecap="square" points="65 84 69 80 69 71.5391759 73.9532262 67.3761828 77.4700455 67.3761828"></polyline>
+                        <polyline id="Line-21" stroke="#011627" stroke-linecap="square" points="65 84 69 80 69 71.5391759 73.9532262 67.3761828 77.4700455 67.3761828"></polyline>
+                        <polyline id="Line-22" stroke="#011627" stroke-linecap="square" transform="translate(88.506272, 35.967259) scale(-1, 1) rotate(-179.000000) translate(-88.506272, -35.967259) " points="80.2775018 5.99977827 80.2775018 15.9997783 88.2737562 25.229748 88.2737562 28.2703138 96.7350422 38.3015428 96.7350422 45.8011143 96.7350422 63.5978722 94.528546 65.9347397"></polyline>
+                        <polyline id="Line-23" stroke="#011627" stroke-linecap="square" points="68.1542312 27.2103285 68.1542312 47.9639876 56 59 56 71"></polyline>
+                        <polyline id="Line-24" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="68.5 45.5 76.5 39.5 76.5 30.7514407 81.8081153 26.1495959 81.8081153 17.9029905 80.2293106 16.5591522"></polyline>
+                        <polyline id="Line-27" stroke="#011627" stroke-linecap="square" transform="translate(74.750000, 81.780012) scale(1, -1) translate(-74.750000, -81.780012) " points="68 70.5600242 81.5 84.5 81.5 93"></polyline>
+                        <polyline id="Line-33" stroke="#011627" stroke-linecap="square" points="49.1887299 104.380412 49.1887299 59.9963646 58.1887299 51.6127112 58.1887299 19.3804121"></polyline>
+                        <polyline id="Line-32" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="35.0243985 37.8207249 35.0243985 51.5303793 46.7298085 62.5600242 46.7298085 77.5600242"></polyline>
+                        <polyline id="Line-28" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="34.7298085 45.5600242 29.1096146 39.0031312 28.7298085 38.5600242 29.1096146 26.6738972 41.4802986 13.6875621"></polyline>
+                        <polyline id="Line-29" stroke="#011627" stroke-linecap="square" points="28.2601474 34.5600242 22.7298085 34.5600242 22.7298085 31.0295761 20 28.5637565"></polyline>
+                        <line x1="42.7298085" y1="58.5600242" x2="42.7298085" y2="45.5600242" id="Line-30" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-32-Copy" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="35.0243985 37.8207249 35.0243985 51.5303793 46.7298085 62.5600242 46.7298085 77.5600242"></polyline>
+                        <polyline id="Line-28-Copy" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="34.7298085 45.5600242 29.1096146 39.0031312 28.7298085 38.5600242 29.1096146 26.6738972 41.4802986 13.6875621"></polyline>
+                        <polyline id="Line-29-Copy" stroke="#011627" stroke-linecap="square" points="28.2601474 34.5600242 22.7298085 34.5600242 22.7298085 31.0295761 20 28.5637565"></polyline>
+                        <line x1="42.7298085" y1="58.5600242" x2="42.7298085" y2="45.5600242" id="Line-30-Copy" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <g id="teal-circle" transform="translate(67.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="10" cy="10" r="7.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-69)" cx="10" cy="10" r="9.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(61.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-70)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle-copy-8" transform="translate(26.000000, 56.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#E71D36" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#E71D36" stroke-width="0.5" filter="url(#filter-71)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(54.229809, 14.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-72)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(42.229809, 19.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-73)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(39.229809, 39.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-74)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(28.229809, 26.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-75)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(38.229809, 8.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-76)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.229809, 12.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="13" cy="13" r="10"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-77)" cx="13" cy="13" r="12.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(44.229809, 78.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-78)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(60.000000, 97.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-79)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(64.000000, 91.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-80)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.000000, 59.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-81)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(74.000000, 60.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-82)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(86.000000, 34.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5.5" cy="5.5" r="4.23076923"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-83)" cx="5.5" cy="5.5" r="5.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(94.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-84)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(90.000000, 2.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-85)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(49.000000, 69.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-86)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-2-Copy" transform="translate(57.770191, 38.060024) scale(-1, -1) translate(-57.770191, -38.060024) translate(40.770191, 1.060024)">
+                        <polyline id="Line-Copy" stroke="#011627" stroke-linecap="square" points="1.30443815e-16 74 0 58.0862282 14.0899099 45.1493897 14.0899099 31.2788693 33.3765192 17.2953694 31.1619113 3.10275879"></polyline>
+                        <g id="teal-circle" transform="translate(28.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-87)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(16.000000, 19.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-88)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(2.000000, 51.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-89)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-Copy" transform="translate(36.500000, 40.203310) rotate(176.000000) translate(-36.500000, -40.203310) translate(3.000000, 3.203310)">
+                        <line x1="35.5" y1="27" x2="35.5" y2="16.5" id="Line-6" stroke="#011627" stroke-linecap="square"></line>
+                        <line x1="36" y1="20.5" x2="48" y2="9.5" id="Line-7" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <line x1="41" y1="7.5" x2="41" y2="15.5" id="Line-8" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-9" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="34.5 29.1359461 39.9864174 29.1359461 40.5 29.1359461 46.5448778 25 59.0491933 25"></polyline>
+                        <polyline id="Line-10" stroke="#011627" stroke-linecap="square" points="27.5 35.8792364 31.5 35.8792364 34.5 33 40.5 33"></polyline>
+                        <polyline id="Line-11" stroke="#011627" stroke-linecap="square" points="8.5 54 23.5 54 28.2398701 50.8392106 28.2398701 47.8781262"></polyline>
+                        <polyline id="Line-12" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="6 56.5 26 56.5 37.6581239 46.1277518"></polyline>
+                        <g id="teal-circle" transform="translate(24.500000, 42.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-90)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(33.500000, 39.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-91)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(39.500000, 5.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1.5" cy="1.5" r="1.15384615"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-92)" cx="1.5" cy="1.5" r="1.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(32.500000, 11.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-93)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.500000, 13.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-94)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.500000, 20.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-95)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(40.500000, 32.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1" cy="1" r="1"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-96)" cx="1" cy="1" r="1"></circle>
+                            </g>
+                        </g>
+                        <polyline id="Line-Copy-2" stroke="#011627" stroke-linecap="square" points="0.877749899 73.9577 1.87529737 59.6921066 37.0835627 26.2107054 42.1635493 26.2107054 50.4027584 16.3730802 57.8460183 16.3730802"></polyline>
+                        <g id="teal-circle" transform="translate(43.500000, -0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-97)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="RIGHT" transform="translate(252.000000, 114.000000) scale(-1, 1) rotate(90.000000) translate(-252.000000, -114.000000) translate(164.000000, 43.000000)">
+                    <g id="Group-4-Copy" transform="translate(123.098181, 58.500000) rotate(-180.000000) translate(-123.098181, -58.500000) translate(71.098181, 1.000000)">
+                        <polyline id="Line-Copy-3" stroke="#011627" stroke-linecap="square" points="84 115 84 98.7536262 74.5131905 98.7536262 62.487524 86.0623588 62.487524 75.554437 53.0480565 66.5158383 40.7517043 66.5158383 33.6634711 58.7211234"></polyline>
+                        <polyline id="Line-14" stroke="#011627" stroke-linecap="square" points="81.5 98.5 81.5 88.5 75.544156 83.2134636"></polyline>
+                        <polyline id="Line-15" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="55.5 68.5 55.5 60.5 52.9366461 57.6447287 45.6291553 57.6447287 36.339393 48.4649537 36.339393 45.995794"></polyline>
+                        <polyline id="Line-16" stroke="#011627" stroke-linecap="square" points="57.5 70.5 57.5 58.5 53.6240668 54.5123121 46.6601475 54.5123121 44.0568365 51.2443555"></polyline>
+                        <polyline id="Line-17" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="60 73 60 44 54.1315083 38.4075022"></polyline>
+                        <path d="M25.5,54.5 C20.8333333,54.5 18.5,54.5 18.5,54.5 C18.5,54.5 16.4517683,52.3333333 12.3553049,48 L8.31709445,48" id="Line-18" stroke="#011627" stroke-linecap="square"></path>
+                        <line x1="28" y1="51" x2="25" y2="47" id="Line-19" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-25" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="5.62898499 27 15.6454249 36.9399758 22.32799 36.9399758 26.5 41.9399758 31 41.9399758"></polyline>
+                        <polyline id="Line-26" stroke="#011627" stroke-linecap="square" points="56.82799 57.4399758 56.82799 48.4399758 46.4920622 37.9399758 42.495531 37.9399758 36 29.3932136"></polyline>
+                        <g id="teal-circle" transform="translate(68.000000, 76.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-98)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(21.000000, 43.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-99)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(29.000000, 35.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-100)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(42.000000, 49.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2" cy="2" r="1.53846154"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-101)" cx="2" cy="2" r="1.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(48.000000, 32.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-102)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(3.000000, 44.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-103)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.327990, 21.939976)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-104)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(31.327990, 23.939976)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-105)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(24.000000, 48.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-106)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <polyline id="Line-31" stroke="#011627" stroke-width="0.5" stroke-linecap="square" transform="translate(101.053917, 18.460371) rotate(-90.000000) translate(-101.053917, -18.460371) " points="118.593546 19.766297 114.574312 19.766297 110.838888 16.4161061 96.0109848 16.7344437 91.5142875 20.5046352 83.5142875 20.5046352"></polyline>
+                    </g>
+                    <g id="Group-3-Copy" opacity="0.899999976" transform="translate(68.270191, 71.060024) scale(1, -1) translate(-68.270191, -71.060024) translate(10.770191, 1.060024)">
+                        <line x1="72" y1="140" x2="72" y2="78.5" id="Line" stroke="#011627" stroke-linecap="square"></line>
+                        <polyline id="Line-2" stroke="#011627" stroke-width="0.75" stroke-linecap="square" points="72 111 62.5 102.5 62.5 96.9148884 48 82.3730802 48 66.4821105"></polyline>
+                        <line x1="62.5" y1="81.5" x2="62.5" y2="96.5" id="Line-3" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-4" stroke="#011627" stroke-linecap="square" points="72.5 110.5 78.5 105.5 78.5 101.422449"></polyline>
+                        <polyline id="Line-5" stroke="#011627" stroke-linecap="square" points="72.5 115.5 83.5 105.5 83.5 95.8602737"></polyline>
+                        <polyline id="Line-20" stroke="#011627" points="72 93 81 84 81 67.2239234 77.3896884 64.2572945"></polyline>
+                        <polyline id="Line-21-Copy" stroke="#011627" stroke-linecap="square" points="81 84 85 80 85 71.5391759 89.9532262 67.3761828 93.4700455 67.3761828"></polyline>
+                        <polyline id="Line-21" stroke="#011627" stroke-linecap="square" points="81 84 85 80 85 71.5391759 89.9532262 67.3761828 93.4700455 67.3761828"></polyline>
+                        <polyline id="Line-22" stroke="#011627" stroke-linecap="square" transform="translate(104.506272, 35.967259) scale(-1, 1) rotate(-179.000000) translate(-104.506272, -35.967259) " points="96.2775018 5.99977827 96.2775018 15.9997783 104.273756 25.229748 104.273756 28.2703138 112.735042 38.3015428 112.735042 45.8011143 112.735042 63.5978722 110.528546 65.9347397"></polyline>
+                        <polyline id="Line-23" stroke="#011627" stroke-linecap="square" points="84.1542312 27.2103285 84.1542312 47.9639876 72 59 72 71"></polyline>
+                        <polyline id="Line-24" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="84.5 45.5 92.5 39.5 92.5 30.7514407 97.8081153 26.1495959 97.8081153 17.9029905 96.2293106 16.5591522"></polyline>
+                        <polyline id="Line-27" stroke="#011627" stroke-linecap="square" transform="translate(90.750000, 81.780012) scale(1, -1) translate(-90.750000, -81.780012) " points="84 70.5600242 97.5 84.5 97.5 93"></polyline>
+                        <polyline id="Line-33" stroke="#011627" stroke-linecap="square" points="65.1887299 104.380412 65.1887299 59.9963646 74.1887299 51.6127112 74.1887299 19.3804121"></polyline>
+                        <polyline id="Line-32" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="51.0243985 37.8207249 51.0243985 51.5303793 62.7298085 62.5600242 62.7298085 77.5600242"></polyline>
+                        <polyline id="Line-28" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="50.7298085 45.5600242 45.1096146 39.0031312 44.7298085 38.5600242 45.1096146 26.6738972 57.4802986 13.6875621"></polyline>
+                        <polyline id="Line-29" stroke="#011627" stroke-linecap="square" points="44.2601474 34.5600242 38.7298085 34.5600242 38.7298085 31.0295761 36 28.5637565"></polyline>
+                        <line x1="58.7298085" y1="58.5600242" x2="58.7298085" y2="45.5600242" id="Line-30" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-32-Copy" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="51.0243985 37.8207249 51.0243985 51.5303793 62.7298085 62.5600242 62.7298085 77.5600242"></polyline>
+                        <polyline id="Line-28-Copy" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="50.7298085 45.5600242 45.1096146 39.0031312 44.7298085 38.5600242 45.1096146 26.6738972 57.4802986 13.6875621"></polyline>
+                        <polyline id="Line-29-Copy" stroke="#011627" stroke-linecap="square" points="44.2601474 34.5600242 38.7298085 34.5600242 38.7298085 31.0295761 36 28.5637565"></polyline>
+                        <line x1="58.7298085" y1="58.5600242" x2="58.7298085" y2="45.5600242" id="Line-30-Copy" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-38" stroke="#011627" stroke-width="0.5" stroke-linecap="square" transform="translate(27.114904, 50.560024) rotate(90.000000) translate(-27.114904, -50.560024) " points="15.6149043 67.6749285 31.0081178 67.44512 31.0081178 55.5378107 38.6149043 49.44512 38.6149043 33.44512"></polyline>
+                        <g id="teal-circle" transform="translate(83.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="10" cy="10" r="7.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-107)" cx="10" cy="10" r="9.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(77.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-108)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(42.000000, 56.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6" cy="6" r="4.61538462"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-109)" cx="6" cy="6" r="5.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(70.229809, 14.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-110)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(58.229809, 19.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-111)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(55.229809, 39.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-112)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(44.229809, 26.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-113)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(54.229809, 8.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-114)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(16.229809, 12.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="13" cy="13" r="10"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-115)" cx="13" cy="13" r="12.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(0.229809, 30.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="9" cy="9" r="6.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-116)" cx="9" cy="9" r="8.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(60.229809, 78.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-117)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(76.000000, 97.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-118)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(80.000000, 91.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-119)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(72.000000, 59.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-120)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(90.000000, 60.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-121)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(102.000000, 34.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5.5" cy="5.5" r="4.23076923"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-122)" cx="5.5" cy="5.5" r="5.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(110.000000, 16.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="2.5" cy="2.5" r="1.92307692"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-123)" cx="2.5" cy="2.5" r="2.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(106.000000, 2.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-124)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(65.000000, 69.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-125)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                        <line x1="28.7298085" y1="46.5600242" x2="28.7298085" y2="61.5600242" id="Line-34" stroke="#011627" stroke-width="0.5" stroke-linecap="square" transform="translate(28.729809, 54.060024) rotate(-180.000000) translate(-28.729809, -54.060024) "></line>
+                        <g id="teal-circle" transform="translate(24.229809, 41.060024)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="4" cy="4" r="3.07692308"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-126)" cx="4" cy="4" r="3.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-2-Copy" transform="translate(57.770191, 38.060024) scale(-1, -1) translate(-57.770191, -38.060024) translate(40.770191, 1.060024)">
+                        <polyline id="Line-Copy" stroke="#011627" stroke-linecap="square" points="1.30443815e-16 74 0 58.0862282 14.0899099 45.1493897 14.0899099 31.2788693 33.3765192 17.2953694 31.1619113 3.10275879"></polyline>
+                        <g id="teal-circle" transform="translate(28.000000, 0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-127)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(16.000000, 19.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="6.5" cy="6.5" r="5"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-128)" cx="6.5" cy="6.5" r="6.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(2.000000, 51.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-129)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-Copy" transform="translate(36.500000, 40.203310) rotate(176.000000) translate(-36.500000, -40.203310) translate(3.000000, 3.203310)">
+                        <line x1="35.5" y1="27" x2="35.5" y2="16.5" id="Line-6" stroke="#011627" stroke-linecap="square"></line>
+                        <line x1="36" y1="20.5" x2="48" y2="9.5" id="Line-7" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <line x1="41" y1="7.5" x2="41" y2="15.5" id="Line-8" stroke="#011627" stroke-width="0.5" stroke-linecap="square"></line>
+                        <polyline id="Line-9" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="34.5 29.1359461 39.9864174 29.1359461 40.5 29.1359461 46.5448778 25 59.0491933 25"></polyline>
+                        <polyline id="Line-10" stroke="#011627" stroke-linecap="square" points="27.5 35.8792364 31.5 35.8792364 34.5 33 40.5 33"></polyline>
+                        <polyline id="Line-11" stroke="#011627" stroke-width="0.5" stroke-linecap="square" points="8.5 54 23.5 54 28.2398701 50.8392106 28.2398701 47.8781262"></polyline>
+                        <g id="teal-circle-copy-21" transform="translate(24.500000, 42.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#E71D36" cx="3.5" cy="3.5" r="2.69230769"></circle>
+                                <circle id="Oval-Copy-12" stroke="#E71D36" stroke-width="0.5" filter="url(#filter-130)" cx="3.5" cy="3.5" r="3.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(39.500000, 5.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1.5" cy="1.5" r="1.15384615"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-131)" cx="1.5" cy="1.5" r="1.25"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(32.500000, 11.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-132)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.500000, 13.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="3" cy="3" r="2.30769231"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-133)" cx="3" cy="3" r="2.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(56.500000, 20.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="5" cy="5" r="3.84615385"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-134)" cx="5" cy="5" r="4.75"></circle>
+                            </g>
+                        </g>
+                        <g id="teal-circle" transform="translate(40.500000, 32.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="1" cy="1" r="1"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-135)" cx="1" cy="1" r="1"></circle>
+                            </g>
+                        </g>
+                        <polyline id="Line-Copy-2" stroke="#011627" stroke-linecap="square" points="0.877749899 73.9577 1.87529737 59.6921066 37.0835627 26.2107054 42.1635493 26.2107054 50.4027584 16.3730802 57.8460183 16.3730802"></polyline>
+                        <g id="teal-circle" transform="translate(43.500000, -0.000000)">
+                            <g id="Group-5">
+                                <circle id="Oval" fill="#2EC4B6" cx="7" cy="7" r="5.38461538"></circle>
+                                <circle id="Oval-Copy-12" stroke="#2EC4B6" stroke-width="0.5" filter="url(#filter-136)" cx="7" cy="7" r="6.75"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
