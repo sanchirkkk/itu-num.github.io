@@ -1,2 +1,2 @@
-# itu-num.github.io
-ITU LAB
+# ITU_NUM_lab8.github.io
+XMLHttpRequest function
